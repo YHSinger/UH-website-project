@@ -1,0 +1,70 @@
+h1 {
+    font-size: 50px;
+    color: orange;
+    text-align: center;
+    direction: rtl;
+}
+
+p {
+    font-size: 18px;
+    color: orange;
+    text-align: center;
+    direction: rtl;
+}
+
+h2 {
+    font-size: 20px;
+    color: orange;
+    text-align: right;
+    direction: rtl;
+}
+
+body {
+    background-color: white;
+}
+
+.logo {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+a {
+    font-size: 40px;
+    color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    direction: rtl;
+    padding-right: 40px;
+}
+
+.links {
+    text-align: center;
+
+}
+
+
+
+img {
+    display: inline-block;
+    width: 315px;
+    height: 160px;
+    
+}
+
+.img {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    color: orange;
+    text-align: center;
+
+}
